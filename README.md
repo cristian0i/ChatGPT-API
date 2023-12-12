@@ -9,3 +9,5 @@ IMPORTANT: For the API to work, add your ChatGPT API_Key in the .env file If you
 4. Copy the given text, place it in the .env file.
 
 And that’s it, you can start using the ChatGPT API.
+
+[![Chat-GPT-Image.jpg](https://i.postimg.cc/5Nr6J6fx/Chat-GPT-Image.jpg)](https://postimg.cc/vcWQL81j)
